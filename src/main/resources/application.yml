@@ -1,0 +1,7 @@
+#Server port
+server:
+  port: 8081
+
+spring:
+  application:
+    name: World
